@@ -1,7 +1,0 @@
-exportPattern("^[[:alpha:]]+")
-import(RCurl)
-import(pmml)
-import(jsonlite)
-import(AlgDesign)
-import(pls)
-import(DoseFinding)
